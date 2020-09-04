@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "TP-Sala-de-Juegos-ANGULAR"
+    }
+  },
+  "defaultProject": "TP-Sala-de-Juegos-ANGULAR",
+  "cli": {
+    "analytics": "1b41ea0c-0544-4aa8-9419-2d28b2d25323"
+  }
 }
